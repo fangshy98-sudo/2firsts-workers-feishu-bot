@@ -1,7 +1,56 @@
 {
-  "status": "error",
+  "status": "ok",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-03-16T04:10:50.297304+00:00",
-  "count": 0,
-  "items": []
+  "generated_at_utc": "2026-03-17T03:42:07.772232+00:00",
+  "count": 6,
+  "items": [
+    {
+      "id": 1,
+      "title": "2FIRSTS电子烟早报 第1条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-17",
+      "pubDate": "2026-03-17",
+      "source": "2FIRSTS",
+      "description": "美国雷诺烟草就 ITC 在一次性电子烟337调查案中的最终裁决提起上诉，请求联邦巡回上诉法院推翻其“202专利”关键权利要求无效及“被告未违反337条款”的认定。 Reynolds"
+    },
+    {
+      "id": 2,
+      "title": "2FIRSTS电子烟早报 第2条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-17",
+      "pubDate": "2026-03-17",
+      "source": "2FIRSTS",
+      "description": "菲律宾贸工部官员在参议院听证会上称，凡是使用食品、甜点或卡通形象等吸引未成年人描述的调味电子烟，均未通过许可程序，属于走私产品；相关查获金额近年明显攀升。 PNA"
+    },
+    {
+      "id": 3,
+      "title": "2FIRSTS电子烟早报 第3条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-17",
+      "pubDate": "2026-03-17",
+      "source": "2FIRSTS",
+      "description": "科威特商务与工业部长发布新规，禁止通过配送平台等线上渠道销售烟草、电子烟及相关配件，并授权主管部门对违规者采取警告、停业或吊销执照等措施。 Kuwait Times"
+    },
+    {
+      "id": 4,
+      "title": "2FIRSTS电子烟早报 第4条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-17",
+      "pubDate": "2026-03-17",
+      "source": "2FIRSTS",
+      "description": "美国西弗吉尼亚州众议院推进所得税下调法案时，否决了参议院提出的“以提高电子烟税抵消减税成本”的修正案，但通过了5%的所得税减税方案。 Wowk TV"
+    },
+    {
+      "id": 5,
+      "title": "2FIRSTS电子烟早报 第5条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-17",
+      "pubDate": "2026-03-17",
+      "source": "2FIRSTS",
+      "description": "阿塞拜疆总统批准《行政违法法典》修正案，对电子烟及其部件的进口、出口、生产、销售和为销售而储存设定罚款，并规定违法产品将被没收。 AzerNEWS"
+    },
+    {
+      "id": 6,
+      "title": "2FIRSTS电子烟早报 第6条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-17",
+      "pubDate": "2026-03-17",
+      "source": "2FIRSTS",
+      "description": "菲律宾贸工部、国内税务局和警方在大马尼拉及邻近省份联合执法，查获约6.12万美元的非法电子烟，重点针对未注册、缺少健康警示和未贴税票产品。 Tribune"
+    }
+  ]
 }
