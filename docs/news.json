@@ -1,56 +1,7 @@
 {
-  "status": "ok",
+  "status": "error",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-03-21T03:29:12.794487+00:00",
-  "count": 6,
-  "items": [
-    {
-      "id": 1,
-      "title": "2FIRSTS电子烟早报 第1条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-03-20",
-      "pubDate": "2026-03-20",
-      "source": "2FIRSTS",
-      "description": "澳大利亚政府拟推出更严法律和更重处罚打击非法烟草与电子烟，包括扩大警方监听与资产没收权限；官方称当地逾半烟草产品和约95.7%的电子烟产品属非法来源。 ABC"
-    },
-    {
-      "id": 2,
-      "title": "2FIRSTS电子烟早报 第2条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-03-20",
-      "pubDate": "2026-03-20",
-      "source": "2FIRSTS",
-      "description": "西班牙尼古丁袋协会称，2025年西班牙尼古丁袋销量达500万罐，预计2026年增至800万罐、同比增长约60%；同时反对卫生部拟将单袋尼古丁含量限至0.99毫克的提案。 Efeagro"
-    },
-    {
-      "id": 3,
-      "title": "2FIRSTS电子烟早报 第3条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-03-20",
-      "pubDate": "2026-03-20",
-      "source": "2FIRSTS",
-      "description": "帝国烟草旗下Fontem US与OM Investment在得州联邦法院起诉FDA，要求撤销对部分Zone尼古丁袋PMTA作出的“拒绝受理”决定；原告称申请早在2022年5月提交，而FDA于2025年12月和2026年3月两次维持不予受理。 美国法院文件"
-    },
-    {
-      "id": 4,
-      "title": "2FIRSTS电子烟早报 第4条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-03-20",
-      "pubDate": "2026-03-20",
-      "source": "2FIRSTS",
-      "description": "泰国海关通报，2月中旬查获电子烟及相关设备205,445件、外国卷烟逾2730万支，案值超1.69亿泰铢，并拟把电子烟罚款标准由按货值计罚改为按件计罚，初步为每件100泰铢。 Khaosod"
-    },
-    {
-      "id": 5,
-      "title": "2FIRSTS电子烟早报 第5条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-03-20",
-      "pubDate": "2026-03-20",
-      "source": "2FIRSTS",
-      "description": "白俄罗斯内务部官员表示，现阶段不宜在该国全面禁止电子烟，原因是白俄罗斯与俄罗斯之间缺乏能够完全控制货物流动的边境条件，若全面禁售可能面临较高的俄方非法供应风险。 BELTA"
-    },
-    {
-      "id": 6,
-      "title": "2FIRSTS电子烟早报 第6条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-03-20",
-      "pubDate": "2026-03-20",
-      "source": "2FIRSTS",
-      "description": "美国西弗吉尼亚州一项法案拟从与Juul达成的790万美元和解金中一次性拨付290万美元，用于青少年烟草预防和戒烟项目；法案已获众议院和参议院通过，待州长决定是否签署。 West Virginia Watch"
-    }
-  ]
+  "generated_at_utc": "2026-03-22T03:45:49.014987+00:00",
+  "count": 0,
+  "items": []
 }
