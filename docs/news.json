@@ -1,7 +1,64 @@
 {
-  "status": "error",
+  "status": "ok",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-03-23T03:51:12.587022+00:00",
-  "count": 0,
-  "items": []
+  "generated_at_utc": "2026-03-24T03:42:38.937214+00:00",
+  "count": 7,
+  "items": [
+    {
+      "id": 1,
+      "title": "2FIRSTS电子烟早报 第1条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-24",
+      "pubDate": "2026-03-24",
+      "source": "2FIRSTS",
+      "description": "《The Hill》举办政策论坛讨论美国军队控烟议题，与会者提出应将低风险尼古丁产品视为帮助军人远离卷烟的“桥梁”选项之一。 The Hill"
+    },
+    {
+      "id": 2,
+      "title": "2FIRSTS电子烟早报 第2条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-24",
+      "pubDate": "2026-03-24",
+      "source": "2FIRSTS",
+      "description": "菲律宾海关披露，2025年全国共查获逾300万件非法电子烟及相关配件，估值约13亿比索（约2380万美元），并在马尼拉港等口岸集中销毁部分走私产品。 菲律宾海关局"
+    },
+    {
+      "id": 3,
+      "title": "2FIRSTS电子烟早报 第3条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-24",
+      "pubDate": "2026-03-24",
+      "source": "2FIRSTS",
+      "description": "泰国疾控厅表示，尼古丁袋在社交媒体平台销售情况普遍，已就相关违法销售线索展开执法调查与监管行动。 Thai PBS"
+    },
+    {
+      "id": 4,
+      "title": "2FIRSTS电子烟早报 第4条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-24",
+      "pubDate": "2026-03-24",
+      "source": "2FIRSTS",
+      "description": "新西兰电子烟企业 Alt 在起诉政府后，获准参与免费电子烟戒烟套装项目，成为相关公共戒烟计划的供应方之一。 RNZ"
+    },
+    {
+      "id": 5,
+      "title": "2FIRSTS电子烟早报 第5条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-24",
+      "pubDate": "2026-03-24",
+      "source": "2FIRSTS",
+      "description": "英国电子烟分销商 JM Wholesale 已申请进入破产管理程序，公司称在监管收紧与市场压力下寻求重组或出售资产。 雅虎新闻"
+    },
+    {
+      "id": 6,
+      "title": "2FIRSTS电子烟早报 第6条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-24",
+      "pubDate": "2026-03-24",
+      "source": "2FIRSTS",
+      "description": "美国田纳西州众议院推进一项电子烟税收分配法案，拟将部分税收用于青少年尼古丁预防与教育项目。 WKRN"
+    },
+    {
+      "id": 7,
+      "title": "2FIRSTS电子烟早报 第7条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-24",
+      "pubDate": "2026-03-24",
+      "source": "2FIRSTS",
+      "description": "英国根西岛议会决定维持“未成年人不得进入电子烟店”的限制措施，相关规定将于3月底正式生效，违规商家可能面临执法处罚。 BBC"
+    }
+  ]
 }
