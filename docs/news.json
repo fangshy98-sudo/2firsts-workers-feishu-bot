@@ -1,64 +1,7 @@
 {
-  "status": "ok",
+  "status": "error",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-03-28T03:44:35.426003+00:00",
-  "count": 7,
-  "items": [
-    {
-      "id": 1,
-      "title": "2FIRSTS电子烟早报 第1条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-03-27",
-      "pubDate": "2026-03-27",
-      "source": "2FIRSTS",
-      "description": "国家烟草专卖局发布了《电子烟相关生产企业、电子烟批发企业信用管理细则（试行）》，共5章、30条。 国家烟草专卖局"
-    },
-    {
-      "id": 2,
-      "title": "2FIRSTS电子烟早报 第2条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-03-27",
-      "pubDate": "2026-03-27",
-      "source": "2FIRSTS",
-      "description": "俄罗斯打击非法工业品流通国家委员会支持全面禁止电子烟、雾化器及其补充液在俄生产、进口和流通，后续将起草相关法案。 Vedomosti"
-    },
-    {
-      "id": 3,
-      "title": "2FIRSTS电子烟早报 第3条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-03-27",
-      "pubDate": "2026-03-27",
-      "source": "2FIRSTS",
-      "description": "KT&G CEO 方庆万在股东大会上表示，公司2026年将把海外卷烟业务从规模增长转向收益导向的质量增长，并加快推出差异化的新型烟草创新平台。 Nate"
-    },
-    {
-      "id": 4,
-      "title": "2FIRSTS电子烟早报 第4条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-03-27",
-      "pubDate": "2026-03-27",
-      "source": "2FIRSTS",
-      "description": "比利时卫生部长 Frank Vandenbroucke 呼吁欧盟统一收紧电子烟允许成分规则、限制口味，并推动在全欧范围内禁售一次性电子烟。 Belga News Agency"
-    },
-    {
-      "id": 5,
-      "title": "2FIRSTS电子烟早报 第5条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-03-27",
-      "pubDate": "2026-03-27",
-      "source": "2FIRSTS",
-      "description": "巴西《全国学生健康调查（PeNSE）2024》显示，13至17岁学生电子烟尝试率由2019年的16.8%升至2024年的29.6%，近30天使用率由8.6%升至26.3%。 G1"
-    },
-    {
-      "id": 6,
-      "title": "2FIRSTS电子烟早报 第6条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-03-27",
-      "pubDate": "2026-03-27",
-      "source": "2FIRSTS",
-      "description": "电子烟品牌GEEKBAR在官网上线换弹式新品MATE 60K，由900mAh可重复使用设备和预装15ml烟油、200mAh电池的烟弹组成，总电池容量1100mAh，常规模式最高约6万口，已在美国线上渠道开售。 2Firsts"
-    },
-    {
-      "id": 7,
-      "title": "2FIRSTS电子烟早报 第7条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-03-27",
-      "pubDate": "2026-03-27",
-      "source": "2FIRSTS",
-      "description": "加拿大边境服务局表示，安大略省 Point Edward 入境口岸7天内查获价值超450万加元的非法烟草和尼古丁电子烟产品，涉案货物自美国进入加拿大。 CTV News"
-    }
-  ]
+  "generated_at_utc": "2026-03-29T04:10:14.833770+00:00",
+  "count": 0,
+  "items": []
 }
