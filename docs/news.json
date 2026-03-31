@@ -1,7 +1,88 @@
 {
-  "status": "error",
+  "status": "ok",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-03-30T04:16:28.233573+00:00",
-  "count": 0,
-  "items": []
+  "generated_at_utc": "2026-03-31T04:06:49.691829+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": 1,
+      "title": "2FIRSTS电子烟早报 第1条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-31",
+      "pubDate": "2026-03-31",
+      "source": "2FIRSTS",
+      "description": "美国北卡罗来纳州大麻产品供应商 JLT Imports Inc. 在加州联邦法院起诉爱奇迹（Imiracle (HK) Ltd.），请求撤销其“Lost Mary”电子烟商标注册。JLT称相关调味一次性电子烟未获 FDA 上市前授权、涉嫌违法销售，因此商标自始无效，并同时提出虚假广告等主张。 Law360"
+    },
+    {
+      "id": 2,
+      "title": "2FIRSTS电子烟早报 第2条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-31",
+      "pubDate": "2026-03-31",
+      "source": "2FIRSTS",
+      "description": "奥地利将自 2026 年"
+    },
+    {
+      "id": 1,
+      "title": "2FIRSTS电子烟早报 第1条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-31",
+      "pubDate": "2026-03-31",
+      "source": "2FIRSTS",
+      "description": "日起实施尼古丁产品销售新规，尼古丁袋将仅允许通过烟草专卖店销售并纳入专卖体系。电子烟烟油也将仅可在烟草专卖店及持牌专业门店销售，并设定经营登记与库存过渡期安排。 VOL.AT"
+    },
+    {
+      "id": 3,
+      "title": "2FIRSTS电子烟早报 第3条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-31",
+      "pubDate": "2026-03-31",
+      "source": "2FIRSTS",
+      "description": "美国纽约州州长霍楚尔在 2027 财年预算提案中提出对 Zyn 等尼古丁袋征收 75% 批发税，预计 2027 财年带来 1800 万美元收入、2028 财年全面实施后达 4400 万美元。民调显示不足半数纽约选民支持该税方案。 AOL"
+    },
+    {
+      "id": 4,
+      "title": "2FIRSTS电子烟早报 第4条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-31",
+      "pubDate": "2026-03-31",
+      "source": "2FIRSTS",
+      "description": "日本将于 2026 年"
+    },
+    {
+      "id": 1,
+      "title": "2FIRSTS电子烟早报 第1条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-31",
+      "pubDate": "2026-03-31",
+      "source": "2FIRSTS",
+      "description": "日起因烟草税上调而推动加热不燃烧烟草产品涨价，但英美烟草日本公司决定其“glo”系列专用烟弹（Velo、neo、Lucky Strike、Kent）共"
+    },
+    {
+      "id": 38,
+      "title": "2FIRSTS电子烟早报 第38条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-31",
+      "pubDate": "2026-03-31",
+      "source": "2FIRSTS",
+      "description": "个品项维持现行价格不变。 YoSK8"
+    },
+    {
+      "id": 5,
+      "title": "2FIRSTS电子烟早报 第5条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-31",
+      "pubDate": "2026-03-31",
+      "source": "2FIRSTS",
+      "description": "菲莫国际美国业务宣布将关闭位于阿拉巴马州 Dothan 的雪茄制造工厂，称此举与其聚焦经 FDA 授权的减害无烟替代产品的业务优先事项有关。工厂关闭预计影响约"
+    },
+    {
+      "id": 20,
+      "title": "2FIRSTS电子烟早报 第20条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-31",
+      "pubDate": "2026-03-31",
+      "source": "2FIRSTS",
+      "description": "名员工以支持后续需求。 WTVY"
+    },
+    {
+      "id": 6,
+      "title": "2FIRSTS电子烟早报 第6条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-03-31",
+      "pubDate": "2026-03-31",
+      "source": "2FIRSTS",
+      "description": "EVO NXT将于 2026年4月17-18日在布拉格举办，为期两天，面向全球 NGP 行业从业者与决策者。展会设置 E-Zone、Heat-Zone、O-Zone、Green-Zone 四大主题展区，并配套围绕监管、趋势与可持续发展等议题的会议议程，同时开放门票购买。 EVO NXT"
+    }
+  ]
 }
