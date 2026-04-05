@@ -1,56 +1,7 @@
 {
-  "status": "ok",
+  "status": "error",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-04-04T03:42:13.508706+00:00",
-  "count": 6,
-  "items": [
-    {
-      "id": 1,
-      "title": "2FIRSTS电子烟早报 第1条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-03",
-      "pubDate": "2026-04-03",
-      "source": "2FIRSTS",
-      "description": "国家烟草专卖局就修改部分电子烟监管政策文件公开征求意见，称为落实电子烟限制性产业政策要求、提升监管体系的系统性和协同性，意见反馈截止至2026年4月14日。 国家烟草专卖局官网"
-    },
-    {
-      "id": 2,
-      "title": "2FIRSTS电子烟早报 第2条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-03",
-      "pubDate": "2026-04-03",
-      "source": "2FIRSTS",
-      "description": "2Firsts专访迪拜水烟公司AIR，围绕其借SPAC寻求上市、以OOKA封闭系统推动水烟品类走向更成熟产业形态的判断展开讨论，同时指出相关差异化监管逻辑仍待验证。 2Firsts"
-    },
-    {
-      "id": 3,
-      "title": "2FIRSTS电子烟早报 第3条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-03",
-      "pubDate": "2026-04-03",
-      "source": "2FIRSTS",
-      "description": "路透社称，美国FDA虽然曾推动尼古丁袋快速审评试点，但除Altria旗下6款on! PLUS于2025年12月获授权外，其余4个品牌申请仍待审；消息人士称，审评人员对青少年及非烟草使用者风险保持谨慎。 路透社"
-    },
-    {
-      "id": 4,
-      "title": "2FIRSTS电子烟早报 第4条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-03",
-      "pubDate": "2026-04-03",
-      "source": "2FIRSTS",
-      "description": "路透社盘前披露FDA尼古丁袋审评或延迟后，菲莫国际、Turning Point Brands和英美烟草相关股票于4月1日下跌，反映市场对美国尼古丁袋监管前景的敏感反应。 路透社"
-    },
-    {
-      "id": 5,
-      "title": "2FIRSTS电子烟早报 第5条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-03",
-      "pubDate": "2026-04-03",
-      "source": "2FIRSTS",
-      "description": "英国税务海关总署敦促电子烟产业链企业尽快申请税务批准；根据英国政府信息，自2026年4月1日起，制造商、进口商及相关仓储经营者需向HMRC申请批准，以便在10月1日电子烟税及税标制度实施后继续合法经营。 英国税务海关总署（HMRC）"
-    },
-    {
-      "id": 6,
-      "title": "2FIRSTS电子烟早报 第6条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-03",
-      "pubDate": "2026-04-03",
-      "source": "2FIRSTS",
-      "description": "美国弗吉尼亚州自4月1日起仅允许销售列入州目录的烟油和雾化产品，总检察长办公室已建议地方检察官启动执法；零售商若销售目录外产品，将面临每款产品每日1000美元罚款。 Virginia Scope"
-    }
-  ]
+  "generated_at_utc": "2026-04-05T04:09:22.088154+00:00",
+  "count": 0,
+  "items": []
 }
