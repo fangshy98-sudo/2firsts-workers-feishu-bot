@@ -1,7 +1,88 @@
 {
-  "status": "error",
+  "status": "ok",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-04-07T04:05:25.263484+00:00",
-  "count": 0,
-  "items": []
+  "generated_at_utc": "2026-04-08T04:07:32.258337+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": 1,
+      "title": "2FIRSTS电子烟早报 第1条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-08",
+      "pubDate": "2026-04-08",
+      "source": "2FIRSTS",
+      "description": "美国联邦法官裁定，Puff Bar 等调味电子烟制造商和分销商不能摆脱纽约州提起的诉讼，需继续应诉。法院认为纽约州已充分主张相关企业存在误导性宣传等指控，案件核心指控（持续违法、公共妨害、重大过失营销等）获保留。 Law360"
+    },
+    {
+      "id": 2,
+      "title": "2FIRSTS电子烟早报 第2条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-08",
+      "pubDate": "2026-04-08",
+      "source": "2FIRSTS",
+      "description": "波兰罗兹海关税务局在检查行动中查获 223,688 支一次性电子烟，均未贴规定消费税标识，查获烟油总量为 447,376 毫升。有关部门称该案涉及超过 1020 万兹罗提（约 255 万美元）的消费税损失风险，涉案货主被提出税务犯罪指控。 波兰政府"
+    },
+    {
+      "id": 3,
+      "title": "2FIRSTS电子烟早报 第3条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-08",
+      "pubDate": "2026-04-08",
+      "source": "2FIRSTS",
+      "description": "DOJO在美国拉斯维加斯举行的 TPE 2026 上发布一次性电子烟 PUREX 60K，产品页面与社媒标注“BUILT IN THE USA（美国制造）”，官方称最高约 60,000 口。该产品已在 DOJO 官网及美国部分线上渠道上线，售价 18.99 美元。 2Firsts"
+    },
+    {
+      "id": 4,
+      "title": "2FIRSTS电子烟早报 第4条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-08",
+      "pubDate": "2026-04-08",
+      "source": "2FIRSTS",
+      "description": "在 Fontem US 起诉 FDA 涉“Zone”尼古丁袋申请处理问题的诉讼未决期间，FDA表示在最终判决前目前无意就 Zone 产品采取执法行动。案件安排显示相关禁令动议将转为加速简易判决动议，并已将听证安排在"
+    },
+    {
+      "id": 6,
+      "title": "2FIRSTS电子烟早报 第6条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-08",
+      "pubDate": "2026-04-08",
+      "source": "2FIRSTS",
+      "description": "月，如政府决定执法需提前"
+    },
+    {
+      "id": 15,
+      "title": "2FIRSTS电子烟早报 第15条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-08",
+      "pubDate": "2026-04-08",
+      "source": "2FIRSTS",
+      "description": "天发出警告信。 Law360"
+    },
+    {
+      "id": 5,
+      "title": "2FIRSTS电子烟早报 第5条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-08",
+      "pubDate": "2026-04-08",
+      "source": "2FIRSTS",
+      "description": "阿塞拜疆标准化研究所宣布废止国家标准 AZS 941:2023《电子烟. 一般技术条件》。按文中信息，自 2026 年"
+    },
+    {
+      "id": 1,
+      "title": "2FIRSTS电子烟早报 第1条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-08",
+      "pubDate": "2026-04-08",
+      "source": "2FIRSTS",
+      "description": "日起，阿塞拜疆将禁止电子烟及其组件的进口、出口、生产、储存、批发、零售和使用。 Trend"
+    },
+    {
+      "id": 6,
+      "title": "2FIRSTS电子烟早报 第6条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-08",
+      "pubDate": "2026-04-08",
+      "source": "2FIRSTS",
+      "description": "美国国际贸易委员会（ITC）拒绝在 Stiiizy 就其与 Pax Labs 的专利侵权裁决提起上诉期间，暂停对其电子烟设备实施的进口与销售禁令。ITC驳回暂缓请求后，有限排除令和停止令继续有效，Stiiizy已向联邦巡回上诉法院上诉并申请紧急暂缓执行。 Law360"
+    },
+    {
+      "id": 7,
+      "title": "2FIRSTS电子烟早报 第7条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-08",
+      "pubDate": "2026-04-08",
+      "source": "2FIRSTS",
+      "description": "乌克兰最高拉达国家健康、医疗援助和医疗保险委员会主席表示，应全面禁止向未成年人销售尼古丁袋，并限制其广告。乌克兰议会相关委员会已起草法案，旨在规范新型含尼古丁产品流通。 SUD"
+    }
+  ]
 }
