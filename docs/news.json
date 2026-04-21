@@ -1,7 +1,56 @@
 {
-  "status": "error",
+  "status": "ok",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-04-20T04:28:00.450262+00:00",
-  "count": 0,
-  "items": []
+  "generated_at_utc": "2026-04-21T04:19:57.498711+00:00",
+  "count": 6,
+  "items": [
+    {
+      "id": 1,
+      "title": "2FIRSTS电子烟早报 第1条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-21",
+      "pubDate": "2026-04-21",
+      "source": "2FIRSTS",
+      "description": "华尔街日报称，美国白宫正推动允许更多调味电子烟上市，但FDA局长Marty Makary反对并阻止相关计划；报道指Glas口味产品虽获科学审查人员支持，仍被高层搁置。 华尔街日报》"
+    },
+    {
+      "id": 2,
+      "title": "2FIRSTS电子烟早报 第2条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-21",
+      "pubDate": "2026-04-21",
+      "source": "2FIRSTS",
+      "description": "2Firsts在EVO NXT 2026现场观察到，RELX展台同时展示电子烟设备、RELX品牌烟油、口含尼古丁产品及鼻吸产品概念，释放出面向欧洲市场的多形态品类扩张信号。 2Firsts"
+    },
+    {
+      "id": 3,
+      "title": "2FIRSTS电子烟早报 第3条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-21",
+      "pubDate": "2026-04-21",
+      "source": "2FIRSTS",
+      "description": "2Firsts在EVO NXT 2026现场看到，Geek Bar展台展示了两款Fasoul加热不燃烧烟具Q1 Pro和C2，均标注适配IQOS TEREA和SENTIA烟支，并配有独立宣传物料。 2Firsts"
+    },
+    {
+      "id": 4,
+      "title": "2FIRSTS电子烟早报 第4条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-21",
+      "pubDate": "2026-04-21",
+      "source": "2FIRSTS",
+      "description": "美国FDA完成科学审查后，向菲莫续发5款IQOS产品改良风险许可，涵盖IQOS 2.4、IQOS 3.0设备及3款Marlboro HeatSticks烟弹，可继续使用“显著减少有害及潜在有害化学物质产生”的暴露降低声明。 美国食品药品监督管理局（FDA）"
+    },
+    {
+      "id": 5,
+      "title": "2FIRSTS电子烟早报 第5条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-21",
+      "pubDate": "2026-04-21",
+      "source": "2FIRSTS",
+      "description": "欧洲反欺诈局联合30国海关于2025年11月14日至12月15日开展“JCO VAPE”行动，查获超9400万件及2500多千克/升相关货物，包括超190万支电子烟和近6.1万件加热烟草产品。 欧洲反欺诈局（OLAF）"
+    },
+    {
+      "id": 6,
+      "title": "2FIRSTS电子烟早报 第6条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-21",
+      "pubDate": "2026-04-21",
+      "source": "2FIRSTS",
+      "description": "KT&G表示，已在韩国全国便利店推出lil AIBLE专用烟弹“AIIM CHANGE UP”和“AIIM COOL SHOT”两款新品，AIIM产品线随之扩展至13种。 FN News"
+    }
+  ]
 }
