@@ -1,56 +1,7 @@
 {
-  "status": "ok",
+  "status": "error",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-04-25T04:06:52.404204+00:00",
-  "count": 6,
-  "items": [
-    {
-      "id": 1,
-      "title": "2FIRSTS电子烟早报 第1条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-24",
-      "pubDate": "2026-04-24",
-      "source": "2FIRSTS",
-      "description": "菲莫国际公布2026年第一季度业绩，净营收同比增长9.1%至101.46亿美元，无烟业务净营收同比增长12.4%，占总净营收比重升至43%；不过美国业务净营收同比下降30.8%，ZYN出货量下降23.5%。 菲莫国际（PMI）"
-    },
-    {
-      "id": 2,
-      "title": "2FIRSTS电子烟早报 第2条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-24",
-      "pubDate": "2026-04-24",
-      "source": "2FIRSTS",
-      "description": "Glas称其披露的FDA内部记录显示，科学审查人员曾在2025年底和2026年初支持其多款调味产品获批，但最终仅G2设备和Blonde Tobacco烟弹获授权，其余4款调味烟弹被高层要求暂不发出市场授权令。 Nicotine Insider"
-    },
-    {
-      "id": 3,
-      "title": "2FIRSTS电子烟早报 第3条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-24",
-      "pubDate": "2026-04-24",
-      "source": "2FIRSTS",
-      "description": "美国FDA烟草产品中心代理主任Bret Koplow表示，过去一年PMTA积压量已经下降约70%，受理排队已清零，FDA累计审查约2700万份申请，但仅少数产品获授权；他同时称机构正加强对未经授权产品的执法。 Tobacco Reporter"
-    },
-    {
-      "id": 4,
-      "title": "2FIRSTS电子烟早报 第4条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-24",
-      "pubDate": "2026-04-24",
-      "source": "2FIRSTS",
-      "description": "菲莫国际表示，旗下欧文斯伯勒工厂将把部分ZYN生产由24/7排班调整为24/5，称扩产后部分产能已高于当前市场需求；公司预计ZYN Flagship部门于7月初完成调整，ZYN Ultra和维修业务仍维持24/7。 Owensboro Times"
-    },
-    {
-      "id": 5,
-      "title": "2FIRSTS电子烟早报 第5条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-24",
-      "pubDate": "2026-04-24",
-      "source": "2FIRSTS",
-      "description": "韩国修订后的《烟草事业法》将于4月24日实施，烟草定义扩大至天然或合成尼古丁产品，原可自由线上销售和宣传的合成尼古丁电子烟将被纳入传统烟草同等监管，并全面禁止线上销售。 Topic Tree"
-    },
-    {
-      "id": 6,
-      "title": "2FIRSTS电子烟早报 第6条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-24",
-      "pubDate": "2026-04-24",
-      "source": "2FIRSTS",
-      "description": "澳大利亚塔斯马尼亚众议院通过《2026年公共卫生修正案（禁售烟草及其他产品）》，大幅提高向未成年人售烟罚款，首次违法最高4.10万澳元、第三次及以后最高16.40万澳元，并赋予监管部门关闭涉嫌非法销售烟草和电子烟场所的权力。 澳大利亚塔斯马尼亚众议院"
-    }
-  ]
+  "generated_at_utc": "2026-04-26T04:30:21.294455+00:00",
+  "count": 0,
+  "items": []
 }
