@@ -1,7 +1,48 @@
 {
-  "status": "error",
+  "status": "ok",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-04-27T04:37:59.398895+00:00",
-  "count": 0,
-  "items": []
+  "generated_at_utc": "2026-04-28T04:44:00.907770+00:00",
+  "count": 5,
+  "items": [
+    {
+      "id": 1,
+      "title": "2FIRSTS电子烟早报 第1条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-28",
+      "pubDate": "2026-04-28",
+      "source": "2FIRSTS",
+      "description": "西班牙人民党和工人社会党在国会—参议院成瘾问题研究混合委员会达成协议，主张将电子烟、尼古丁袋等产品销售限定在烟草专卖店和专业门店，并排除互联网及综合零售渠道。 Elplural"
+    },
+    {
+      "id": 2,
+      "title": "2FIRSTS电子烟早报 第2条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-28",
+      "pubDate": "2026-04-28",
+      "source": "2FIRSTS",
+      "description": "韩国《烟草事业法》修订案虽已于4月24日生效，但保健福祉部在实施前数小时临时通知，将电子烟相关执法起始时间推迟至6月23日之后，地方政府称中央口径突变导致现场混乱。 朝鲜日报"
+    },
+    {
+      "id": 3,
+      "title": "2FIRSTS电子烟早报 第3条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-28",
+      "pubDate": "2026-04-28",
+      "source": "2FIRSTS",
+      "description": "俄罗斯正修订电子烟国家标准草案，拟将换弹仓容量限制为不超过2毫升、一次性设备不超过10毫升、补充液容器不超过30毫升，并把设备和烟油保质期限制为两年以内。 BK55"
+    },
+    {
+      "id": 4,
+      "title": "2FIRSTS电子烟早报 第4条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-28",
+      "pubDate": "2026-04-28",
+      "source": "2FIRSTS",
+      "description": "菲律宾多个反吸烟和健康倡议团体向贸工部施压，要求就菲莫菲律宾涉及ZYN和IQOS的三项投诉采取行动，称产品推广、代言及未注册销售涉嫌违反《2022年电子烟监管法》。 SunStar"
+    },
+    {
+      "id": 5,
+      "title": "2FIRSTS电子烟早报 第5条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-04-28",
+      "pubDate": "2026-04-28",
+      "source": "2FIRSTS",
+      "description": "菲莫日本宣布扩大“ZYN by IQOS”在东京都的销售范围，产品将自5月11日起在东京IQOS门店、罗森等渠道顺次发售，共上线4种口味、8款产品。 菲莫日本"
+    }
+  ]
 }
