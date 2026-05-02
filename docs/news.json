@@ -1,48 +1,7 @@
 {
-  "status": "ok",
+  "status": "error",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-05-01T04:56:55.661620+00:00",
-  "count": 5,
-  "items": [
-    {
-      "id": 1,
-      "title": "2FIRSTS电子烟早报 第1条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-30",
-      "pubDate": "2026-04-30",
-      "source": "2FIRSTS",
-      "description": "加拿大联邦卫生部长表示，正研究永久禁止向2008年后出生者销售烟草产品的立法方案，相关思路参考了英国“无烟一代”做法。 CTV News"
-    },
-    {
-      "id": 2,
-      "title": "2FIRSTS电子烟早报 第2条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-30",
-      "pubDate": "2026-04-30",
-      "source": "2FIRSTS",
-      "description": "柬埔寨卫生部长要求制定2027—2031年烟草控制战略，目标到2030年将烟草使用率降低30%，重点包括减少吸烟、保护公众免受二手烟危害、打击非法和假冒烟草制品，以及防止电子烟扩散。 高棉时报"
-    },
-    {
-      "id": 3,
-      "title": "2FIRSTS电子烟早报 第3条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-30",
-      "pubDate": "2026-04-30",
-      "source": "2FIRSTS",
-      "description": "菲莫国际在英国推出适配IQOS ILUMA系列的LEVIA零烟草尼古丁烟弹，首批含4个版本，包括薄荷和3款爆珠风味产品，建议零售价为5英镑。 Grocery Trader"
-    },
-    {
-      "id": 4,
-      "title": "2FIRSTS电子烟早报 第4条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-30",
-      "pubDate": "2026-04-30",
-      "source": "2FIRSTS",
-      "description": "顺灏股份2025年营收11.88亿元，同比下降21.78%，归母净利润5893.97万元，同比增长30%；2026年一季度营收2.92亿元、净利润1998.33万元，并继续持有多项电子烟及加热卷烟相关许可证。 顺灏股份"
-    },
-    {
-      "id": 5,
-      "title": "2FIRSTS电子烟早报 第5条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-04-30",
-      "pubDate": "2026-04-30",
-      "source": "2FIRSTS",
-      "description": "泰国曼谷港海关查获电子烟5.2万支、烟油100加仑及一批笑气，电子烟及烟油案值约556万泰铢，约合17.12万美元。 Matichon"
-    }
-  ]
+  "generated_at_utc": "2026-05-02T04:26:37.589419+00:00",
+  "count": 0,
+  "items": []
 }
