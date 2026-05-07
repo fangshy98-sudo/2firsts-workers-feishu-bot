@@ -1,7 +1,56 @@
 {
-  "status": "error",
+  "status": "ok",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-05-06T04:42:11.305687+00:00",
-  "count": 0,
-  "items": []
+  "generated_at_utc": "2026-05-07T04:43:54.958055+00:00",
+  "count": 6,
+  "items": [
+    {
+      "id": 1,
+      "title": "2FIRSTS电子烟早报 第1条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-05-07",
+      "pubDate": "2026-05-07",
+      "source": "2FIRSTS",
+      "description": "美国FDA根据PMTA标准，首次授权了非烟草、非薄荷醇口味的电子烟产品。该决定基于制造商提供的科学证据，证明其对成年烟民的公共卫生获益大于对青少年的潜在风险，这也是非传统口味产品的重要监管突破。 FDA官网"
+    },
+    {
+      "id": 2,
+      "title": "2FIRSTS电子烟早报 第2条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-05-07",
+      "pubDate": "2026-05-07",
+      "source": "2FIRSTS",
+      "description": "阿根廷政府通过官方公告废除了此前的电子烟禁令。新规将电子烟及加热卷烟等尼古丁产品纳入合法监管框架，实施产品注册、全流程追溯及税收管理。此举旨在打击黑市，并在保障成人选择权的同时，通过监管防止青少年接触。 阿根廷官方公报"
+    },
+    {
+      "id": 3,
+      "title": "2FIRSTS电子烟早报 第3条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-05-07",
+      "pubDate": "2026-05-07",
+      "source": "2FIRSTS",
+      "description": "奥驰亚发布2024年第一季度财报，净收入同比增长3.2%至54.28亿美元。尽管传统卷烟销量有所下滑，但口含烟品牌on!出货量同比大增17.6%，展现出强劲的增长势头。公司表示将继续推动“超越烟草”战略，加大对无烟产品的投资。 奥驰亚官方公告"
+    },
+    {
+      "id": 4,
+      "title": "2FIRSTS电子烟早报 第4条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-05-07",
+      "pubDate": "2026-05-07",
+      "source": "2FIRSTS",
+      "description": "比利时政府宣布将禁止调味电子烟上市，新规拟于2028年9月正式生效。该政策旨在降低电子烟对年轻人的吸引力，届时市场上仅允许销售烟草口味的电子烟产品。此举是比利时实现“无烟一代”长期卫生目标的组成部分。 比利时卫生部"
+    },
+    {
+      "id": 5,
+      "title": "2FIRSTS电子烟早报 第5条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-05-07",
+      "pubDate": "2026-05-07",
+      "source": "2FIRSTS",
+      "description": "菲律宾卫生部近日表达了对电子烟的严厉监管立场，提议应全面禁止电子烟，或至少限制其仅能销售普通烟草味，以遏制青少年吸食率的上升。卫生部呼吁立法部门收紧相关法律，强化对新型烟草产品的管控。 菲律宾官方通告"
+    },
+    {
+      "id": 6,
+      "title": "2FIRSTS电子烟早报 第6条",
+      "link": "https://cn.2firsts.com/report/detail?date=2026-05-07",
+      "pubDate": "2026-05-07",
+      "source": "2FIRSTS",
+      "description": "韩国财政经济部已正式要求警方对3家涉嫌违法经营的公司展开调查。据称，这些公司通过网络平台违规销售高浓度尼古丁溶液，违反了韩国关于有毒物质及烟草销售的相关法律。政府强调将严厉打击危害公众健康的线上非法交易行为。 韩国财政部"
+    }
+  ]
 }
