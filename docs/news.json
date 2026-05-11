@@ -1,64 +1,7 @@
 {
-  "status": "ok",
+  "status": "error",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-05-10T04:53:09.356725+00:00",
-  "count": 7,
-  "items": [
-    {
-      "id": 1,
-      "title": "2FIRSTS电子烟早报 第1条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-05-09",
-      "pubDate": "2026-05-09",
-      "source": "2FIRSTS",
-      "description": "日本烟草（JT）发布2026年一季度财报，净利润同比增长27.3%至12.61亿美元。其中新型烟草业务（NGP）表现抢眼，营收录得63.8%的强劲增长，主要受加热烟草产品在全球市场，特别是核心增长区域的份额扩张驱动。 日本烟草（JT）"
-    },
-    {
-      "id": 2,
-      "title": "2FIRSTS电子烟早报 第2条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-05-09",
-      "pubDate": "2026-05-09",
-      "source": "2FIRSTS",
-      "description": "镁乐生物提出烟油“体验设计”思路，主张通过拆解感官维度和建立情绪链接，解决市场产品同质化、缺乏记忆点的痛点。 镁乐生物"
-    },
-    {
-      "id": 3,
-      "title": "2FIRSTS电子烟早报 第3条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-05-09",
-      "pubDate": "2026-05-09",
-      "source": "2FIRSTS",
-      "description": "英国零售数据机构Talysis报告显示，今年一季度英国电子烟销量同比下降10.3%，而口含尼古丁产品表现强劲，销量大幅增长46%。数据显示，在监管趋严和消费偏好改变的影响下，英国尼古丁替代市场正向口含类产品快速偏移。 Talysis"
-    },
-    {
-      "id": 4,
-      "title": "2FIRSTS电子烟早报 第4条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-05-09",
-      "pubDate": "2026-05-09",
-      "source": "2FIRSTS",
-      "description": "Ispire发布2026财年第三季度财报，营收录得1870万美元，净亏损950万美元。公司宣布其位于马来西亚的制造工厂已正式投产，不仅提升了生产效能，并已启动尼古丁袋产品的全球供应。 Ispire 官方公告"
-    },
-    {
-      "id": 5,
-      "title": "2FIRSTS电子烟早报 第5条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-05-09",
-      "pubDate": "2026-05-09",
-      "source": "2FIRSTS",
-      "description": "Turning Point Brands（TPB）一季度净销售额增长16.8%至1.24亿美元。核心增长点源于现代口含产品（Modern Oral），该板块收入同比大增133%。公司表示，口含尼古丁产品的爆发式增长已成为驱动业绩的主要动力。 Turning Point Brands"
-    },
-    {
-      "id": 6,
-      "title": "2FIRSTS电子烟早报 第6条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-05-09",
-      "pubDate": "2026-05-09",
-      "source": "2FIRSTS",
-      "description": "AIR集团宣布将在罗马尼亚投资建设新的制造设施，旨在进一步优化欧洲供应链布局。该项目预计将于2027年第一季度正式投产，建成后将大幅提升品牌在欧盟及周边市场的生产供应灵活性与市场响应速度。 AIR官方公告"
-    },
-    {
-      "id": 7,
-      "title": "2FIRSTS电子烟早报 第7条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-05-09",
-      "pubDate": "2026-05-09",
-      "source": "2FIRSTS",
-      "description": "韩国烟草KT&G在监管文件中披露，Capital Group已持有KT&G 5.61%股份，其由此成为KT&G重要外资股东之一，与BlackRock、First Eagle Investment Management和新加坡主权财富基金GIC同列。 Korea Herald"
-    }
-  ]
+  "generated_at_utc": "2026-05-11T05:06:26.300057+00:00",
+  "count": 0,
+  "items": []
 }
