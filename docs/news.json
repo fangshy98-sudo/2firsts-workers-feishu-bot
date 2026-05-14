@@ -1,48 +1,7 @@
 {
-  "status": "ok",
+  "status": "error",
   "source_url": "https://2first.fangshy98.workers.dev/",
-  "generated_at_utc": "2026-05-13T04:58:14.102954+00:00",
-  "count": 5,
-  "items": [
-    {
-      "id": 1,
-      "title": "2FIRSTS电子烟早报 第1条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-05-12",
-      "pubDate": "2026-05-12",
-      "source": "2FIRSTS",
-      "description": "阿根廷于4月30日批准新一代烟草和尼古丁产品监管框架，从禁令路径转向注册、可追溯和卫生监管；2Firsts采访的减害倡导者称，成年消费者与部分商业群体对此谨慎乐观，但对口味限制、注册成本和市场准入仍存担忧。 2Firsts"
-    },
-    {
-      "id": 2,
-      "title": "2FIRSTS电子烟早报 第2条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-05-12",
-      "pubDate": "2026-05-12",
-      "source": "2FIRSTS",
-      "description": "加拿大联邦政府虽于2021年提出将电子烟口味限制为薄荷、薄荷醇和烟草味，但全国禁令至今未落地；卫生部长Marjorie Michel近日表示愿朝限制口味方向推进，但仍未给出明确时间表。 CBC News"
-    },
-    {
-      "id": 3,
-      "title": "2FIRSTS电子烟早报 第3条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-05-12",
-      "pubDate": "2026-05-12",
-      "source": "2FIRSTS",
-      "description": "印尼拟加强电子烟流通监管，国家食品药品监督管理局（BPOM）将接手全国电子烟流通监测，并与国家禁毒局合作应对含毒品电子烟问题；药监局表示将依据现有法规制定技术规则，明确允许和禁止的产品范围。 Jakarta Globe"
-    },
-    {
-      "id": 4,
-      "title": "2FIRSTS电子烟早报 第4条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-05-12",
-      "pubDate": "2026-05-12",
-      "source": "2FIRSTS",
-      "description": "俄罗斯内务部通报，莫斯科警方在住宅和仓库搜查中查获约6.5万件含尼古丁产品，案值约3000万卢布（约40万美元）；嫌疑人被指无证建立电子烟灰色进口渠道，部分产品已过保质期，将依法销毁。 Rambler"
-    },
-    {
-      "id": 5,
-      "title": "2FIRSTS电子烟早报 第5条",
-      "link": "https://cn.2firsts.com/report/detail?date=2026-05-12",
-      "pubDate": "2026-05-12",
-      "source": "2FIRSTS",
-      "description": "帝国烟草解读英国《2026年烟草与电子烟法》称，电子烟、加热烟草以及尼古丁袋等监管措施不会立即生效，而将分阶段实施；其中免费派发和折扣限制预计自2026年10月29日起执行，“无烟一代”禁售规则将于2027年1月1日启动。 Slrmag"
-    }
-  ]
+  "generated_at_utc": "2026-05-14T04:56:34.742616+00:00",
+  "count": 0,
+  "items": []
 }
